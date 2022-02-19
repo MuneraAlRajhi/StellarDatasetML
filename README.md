@@ -1,6 +1,6 @@
 # StellarDataset_ML
 
-This is the ML group project for Misk Data Science Immersive Course.
+This is the ML group project for Misk Data Science Immersive Course, the aim for this project is to develop the best machine learning model to classify stars based on their spectral characteristics.
 
 ## This Repo includes:
 
