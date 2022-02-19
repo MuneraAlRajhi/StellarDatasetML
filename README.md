@@ -42,7 +42,7 @@ The data consists of observations of space taken by the SDSS (Sloan Digital Sky 
 - class = object class (galaxy, star or quasar object) << your target
 - redshift = redshift value based on the increase in wavelength
 - plate = plate ID, identifies each plate in SDSS
-- MJD = Modified Julian Date, used to indicate when a given piece of SDSS - - - data was taken
+- MJD = Modified Julian Date, used to indicate when a given piece of SDSS
 - fiber_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation
 
 ## Exploratory Data Analysis (EDA):
