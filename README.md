@@ -54,10 +54,10 @@ The data consists of observations of space taken by the SDSS (Sloan Digital Sky 
 
 
 ## Algorithms Results:
-- K-nearest Neighbors Algorithm:
-- Decision Tree classification Algorithm:
-- Random Forest Classification Algorithm:
-- Logistic Classification Algorithm:
+- K-nearest Neighbors Algorithm: Accuracy =
+- Decision Tree classification Algorithm: Accuracy =
+- Random Forest Classification Algorithm: Accuracy =
+- Logistic Classification Algorithm: Accuracy =
 
 
 ## Conclusion:
