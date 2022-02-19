@@ -39,7 +39,7 @@ The data consists of observations of space taken by the SDSS (Sloan Digital Sky 
 - cam_col = Camera column to identify the scanline within the run
 - field_ID = Field number to identify each field
 - spec_obj_ID = Unique ID used for optical spectroscopic objects (this means that 2 different observations with the same spec_obj_ID must share the output class)
-- class = object class (galaxy, star or quasar object) << your target
+- class = object class (galaxy, star or quasar object)
 - redshift = redshift value based on the increase in wavelength
 - plate = plate ID, identifies each plate in SDSS
 - MJD = Modified Julian Date, used to indicate when a given piece of SDSS
