@@ -2,7 +2,7 @@
 
 This is the ML group project for Misk Data Science Immersive Course.
 
-### This Repo includes:
+## This Repo includes:
 
 - Introduction.
 - Exploratory Data Analysis (EDA).
