@@ -62,5 +62,6 @@ The data consists of observations of space taken by the SDSS (Sloan Digital Sky 
 
 ## Conclusion:
 
+For This dataset the best preformed algorithm was Decision Tree classification Algorithm with the Accuracy off 97.4%
 
 
